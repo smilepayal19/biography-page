@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+}
+header {
+  text-align: center;
+  background: hsla(65, 70%, 50%, .65);
+  font-family: "Allan", serif;
+  font-size: 22px;
+}
+#title {
+  font-size: 30px;
+}
+#subtitle {
+  font-size: 20px;
+  margin-top: -40px;
+}
+#img-caption {
+  font-size: 15px;
+  margin-top: 5px;
+}
+main {
+  text-align: center;
+  background: hsla(230, 100%, 80%, .7)
+}
+footer {
+  text-align: center;
+  background: hsla(65, 70%, 50%, .65);
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+#tribute-info {
+  list-style-position: inside;
+  text-align: left;
+  padding-left: 210px;
+}
+#quote {
+  font-family: "Allan", serif;
+  font-size: 17px;
+}
+#main {
+  background-image: url("https://www.itl.cat/pngfile/big/28-285234_hufflepuff-hardcover-ruled-journal-harry-potter-repeating-pattern.jpg");
+  background-size: 400px 400px;
+}
